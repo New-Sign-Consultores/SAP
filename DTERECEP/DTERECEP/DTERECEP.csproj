@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CE002919-80C9-4385-96F6-2D39256E078D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DTERECEP</RootNamespace>
+    <AssemblyName>DTERECEP</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>DTERECEP.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Encrypto">
+      <HintPath>DLL\Encrypto.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp">
+      <HintPath>DLL\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="SAPBusinessOneSDK" />
+    <Reference Include="ValidLic">
+      <HintPath>DLL\ValidLic.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\Common.cs" />
+    <Compile Include="Forms\FCASCFRC.b1f.cs">
+      <DependentUpon>FCASCFRC.b1f</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FDocument.b1f.cs">
+      <DependentUpon>FDocument.b1f</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormLicAddon.b1f.cs">
+      <DependentUpon>FormLicAddon.b1f</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Form1.b1f">
+      <FormCategory>UserForm</FormCategory>
+    </None>
+    <Compile Include="Common\CRUD\ASRDTE.cs" />
+    <Compile Include="Common\CRUD\CRUD_ASRDTE.cs" />
+    <Compile Include="Common\DTENewSign.cs" />
+    <Compile Include="Common\DTE\Comisiones.cs" />
+    <Compile Include="Common\DTE\descarga.cs" />
+    <Compile Include="Common\DTE\Detalle.cs" />
+    <Compile Include="Common\DTE\DscRcgGlobal.cs" />
+    <Compile Include="Common\DTE\DTE.cs" />
+    <Compile Include="Common\DTE\Emisor.cs" />
+    <Compile Include="Common\DTE\IdDoc.cs" />
+    <Compile Include="Common\DTE\OtraMoneda.cs" />
+    <Compile Include="Common\DTE\Receptor.cs" />
+    <Compile Include="Common\DTE\Referencia.cs" />
+    <Compile Include="Common\DTE\ResultDTE.cs" />
+    <Compile Include="Common\DTE\SubTotInfo.cs" />
+    <Compile Include="Common\DTE\Totales.cs" />
+    <Compile Include="Common\DTE\Transporte.cs" />
+    <Compile Include="Common\FileManager.cs" />
+    <Compile Include="Common\NEWSIGN\RecoverXML_V2XML.cs" />
+    <Compile Include="Common\NEWSIGN\SearchResultXML.cs" />
+    <Compile Include="Common\ResultSt.cs" />
+    <Compile Include="Common\Security.cs" />
+    <Compile Include="Common\StructureLoad.cs" />
+    <Compile Include="Conex.cs" />
+    <Compile Include="Form1.b1f.cs">
+      <DependentUpon>Form1.b1f</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FShppingRcpt.b1f.cs">
+      <DependentUpon>FShppingRcpt.b1f</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="Forms\FCASCFRC.b1f">
+      <FormCategory>UserForm</FormCategory>
+    </None>
+    <None Include="Forms\FDocument.b1f">
+      <FormCategory>UserForm</FormCategory>
+    </None>
+    <None Include="Forms\FormLicAddon.b1f">
+      <FormCategory>UserForm</FormCategory>
+    </None>
+    <None Include="Forms\FShppingRcpt.b1f">
+      <FormCategory>UserForm</FormCategory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

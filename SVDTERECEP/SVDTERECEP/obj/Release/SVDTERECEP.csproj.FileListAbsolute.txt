@@ -1,0 +1,25 @@
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\SVDTERECEP\SVDTERECEP\bin\Release\SVDTERECEP.exe.config
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\SVDTERECEP\SVDTERECEP\bin\Release\SVDTERECEP.exe
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\SVDTERECEP\SVDTERECEP\bin\Release\SVDTERECEP.pdb
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\SVDTERECEP\SVDTERECEP\bin\Release\RestSharp.dll
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\SVDTERECEP\SVDTERECEP\bin\Release\SAPBusinessOneSDK.dll
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.csproj.AssemblyReference.cache
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.Form1.resources
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.Properties.Resources.resources
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.csproj.GenerateResource.cache
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.csproj.CopyComplete
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.exe
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.pdb
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\SVDTERECEP\SVDTERECEP\bin\Release\SVDTERECEP.exe.config
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\SVDTERECEP\SVDTERECEP\bin\Release\SVDTERECEP.exe
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\SVDTERECEP\SVDTERECEP\bin\Release\SVDTERECEP.pdb
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\SVDTERECEP\SVDTERECEP\bin\Release\RestSharp.dll
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.Form1.resources
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.Properties.Resources.resources
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.csproj.GenerateResource.cache
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.csproj.Up2Date
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.exe
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\SVDTERECEP\SVDTERECEP\obj\Release\SVDTERECEP.pdb

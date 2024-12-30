@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Proyectos\\New folder\\New folder\\dterec-main\\dterec-main\\SVDTERECEP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2AE5BE-E3AF-4E62-B308-3C1E6448515C}|SVDTERECEP\\SVDTERECEP.csproj|c:\\users\\user\\documents\\proyectos\\new folder\\new folder\\dterec-main\\dterec-main\\svdterecep\\svdterecep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2AE5BE-E3AF-4E62-B308-3C1E6448515C}|SVDTERECEP\\SVDTERECEP.csproj|solutionrelative:svdterecep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2AE5BE-E3AF-4E62-B308-3C1E6448515C}|SVDTERECEP\\SVDTERECEP.csproj|c:\\users\\user\\documents\\proyectos\\new folder\\new folder\\dterec-main\\dterec-main\\svdterecep\\svdterecep\\common\\dtenewsign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2AE5BE-E3AF-4E62-B308-3C1E6448515C}|SVDTERECEP\\SVDTERECEP.csproj|solutionrelative:svdterecep\\common\\dtenewsign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2AE5BE-E3AF-4E62-B308-3C1E6448515C}|SVDTERECEP\\SVDTERECEP.csproj|c:\\users\\user\\documents\\proyectos\\new folder\\new folder\\dterec-main\\dterec-main\\svdterecep\\svdterecep\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD2AE5BE-E3AF-4E62-B308-3C1E6448515C}|SVDTERECEP\\SVDTERECEP.csproj|solutionrelative:svdterecep\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2AE5BE-E3AF-4E62-B308-3C1E6448515C}|SVDTERECEP\\SVDTERECEP.csproj|c:\\users\\user\\documents\\proyectos\\new folder\\new folder\\dterec-main\\dterec-main\\svdterecep\\svdterecep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD2AE5BE-E3AF-4E62-B308-3C1E6448515C}|SVDTERECEP\\SVDTERECEP.csproj|solutionrelative:svdterecep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyectos\\New folder\\New folder\\dterec-main\\dterec-main\\SVDTERECEP\\SVDTERECEP\\App.config",
+              "RelativeDocumentMoniker": "SVDTERECEP\\App.config",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyectos\\New folder\\New folder\\dterec-main\\dterec-main\\SVDTERECEP\\SVDTERECEP\\App.config",
+              "RelativeToolTip": "SVDTERECEP\\App.config",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAEgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-06T19:30:03.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DTENewSign.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyectos\\New folder\\New folder\\dterec-main\\dterec-main\\SVDTERECEP\\SVDTERECEP\\Common\\DTENewSign.cs",
+              "RelativeDocumentMoniker": "SVDTERECEP\\Common\\DTENewSign.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyectos\\New folder\\New folder\\dterec-main\\dterec-main\\SVDTERECEP\\SVDTERECEP\\Common\\DTENewSign.cs",
+              "RelativeToolTip": "SVDTERECEP\\Common\\DTENewSign.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwE4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:20:10.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyectos\\New folder\\New folder\\dterec-main\\dterec-main\\SVDTERECEP\\SVDTERECEP\\Program.cs",
+              "RelativeDocumentMoniker": "SVDTERECEP\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyectos\\New folder\\New folder\\dterec-main\\dterec-main\\SVDTERECEP\\SVDTERECEP\\Program.cs",
+              "RelativeToolTip": "SVDTERECEP\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:19:54.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyectos\\New folder\\New folder\\dterec-main\\dterec-main\\SVDTERECEP\\SVDTERECEP\\Form1.cs",
+              "RelativeDocumentMoniker": "SVDTERECEP\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyectos\\New folder\\New folder\\dterec-main\\dterec-main\\SVDTERECEP\\SVDTERECEP\\Form1.cs [Design]",
+              "RelativeToolTip": "SVDTERECEP\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:19:37.054Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

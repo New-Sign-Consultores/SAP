@@ -1,0 +1,8 @@
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\svDTERECEP\svDTERECEP\svDTERECEP\bin\Debug\svDTERECEP.exe.config
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\svDTERECEP\svDTERECEP\svDTERECEP\bin\Debug\svDTERECEP.exe.config
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\svDTERECEP\svDTERECEP\svDTERECEP\bin\Debug\svDTERECEP.exe
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\svDTERECEP\svDTERECEP\svDTERECEP\bin\Debug\svDTERECEP.pdb
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\svDTERECEP\svDTERECEP\svDTERECEP\obj\Debug\svDTERECEP.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\svDTERECEP\svDTERECEP\svDTERECEP\obj\Debug\svDTERECEP.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\svDTERECEP\svDTERECEP\svDTERECEP\obj\Debug\svDTERECEP.exe
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\svDTERECEP\svDTERECEP\svDTERECEP\obj\Debug\svDTERECEP.pdb

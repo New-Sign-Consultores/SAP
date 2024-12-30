@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTERECEP", "DTERECEP\DTERECEP.csproj", "{CE002919-80C9-4385-96F6-2D39256E078D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE002919-80C9-4385-96F6-2D39256E078D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE002919-80C9-4385-96F6-2D39256E078D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE002919-80C9-4385-96F6-2D39256E078D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE002919-80C9-4385-96F6-2D39256E078D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B92B4473-9915-434B-AA32-C261E6CFF25B}
+	EndGlobalSection
+EndGlobal

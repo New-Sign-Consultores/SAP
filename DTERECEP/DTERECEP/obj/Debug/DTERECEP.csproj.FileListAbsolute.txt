@@ -1,0 +1,46 @@
+C:\Users\DEV\Documents\GITLAB\Producto\DTEREC\DTERECEP\DTERECEP\bin\Debug\DTERECEP.exe
+C:\Users\DEV\Documents\GITLAB\Producto\DTEREC\DTERECEP\DTERECEP\bin\Debug\DTERECEP.pdb
+C:\Users\DEV\Documents\GITLAB\Producto\DTEREC\DTERECEP\DTERECEP\bin\Debug\RestSharp.dll
+C:\Users\DEV\Documents\GITLAB\Producto\DTEREC\DTERECEP\DTERECEP\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\DEV\Documents\GITLAB\Producto\DTEREC\DTERECEP\DTERECEP\obj\Debug\DTERECEP.csproj.AssemblyReference.cache
+C:\Users\DEV\Documents\GITLAB\Producto\DTEREC\DTERECEP\DTERECEP\obj\Debug\DTERECEP.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Documents\GITLAB\Producto\DTEREC\DTERECEP\DTERECEP\obj\Debug\DTERECEP.csproj.CopyComplete
+C:\Users\DEV\Documents\GITLAB\Producto\DTEREC\DTERECEP\DTERECEP\obj\Debug\DTERECEP.exe
+C:\Users\DEV\Documents\GITLAB\Producto\DTEREC\DTERECEP\DTERECEP\obj\Debug\DTERECEP.pdb
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Debug\DTERECEP.exe.config
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Debug\DTERECEP.exe
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Debug\DTERECEP.pdb
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Debug\Encrypto.dll
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Debug\RestSharp.dll
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Debug\ValidLic.dll
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\obj\Debug\DTERECEP.exe
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\obj\Debug\DTERECEP.pdb
+C:\Users\newsign\Documents\DTERECEP\DTERECEP\bin\Debug\DTERECEP.exe.config
+C:\Users\newsign\Documents\DTERECEP\DTERECEP\bin\Debug\DTERECEP.exe
+C:\Users\newsign\Documents\DTERECEP\DTERECEP\bin\Debug\DTERECEP.pdb
+C:\Users\newsign\Documents\DTERECEP\DTERECEP\bin\Debug\Encrypto.dll
+C:\Users\newsign\Documents\DTERECEP\DTERECEP\bin\Debug\RestSharp.dll
+C:\Users\newsign\Documents\DTERECEP\DTERECEP\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\newsign\Documents\DTERECEP\DTERECEP\bin\Debug\ValidLic.dll
+C:\Users\newsign\Documents\DTERECEP\DTERECEP\obj\Debug\DTERECEP.csproj.AssemblyReference.cache
+C:\Users\newsign\Documents\DTERECEP\DTERECEP\obj\Debug\DTERECEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\newsign\Documents\DTERECEP\DTERECEP\obj\Debug\DTERECEP.csproj.CoreCompileInputs.cache
+C:\Users\newsign\Documents\DTERECEP\DTERECEP\obj\Debug\DTERECEP.csproj.CopyComplete
+C:\Users\newsign\Documents\DTERECEP\DTERECEP\obj\Debug\DTERECEP.exe
+C:\Users\newsign\Documents\DTERECEP\DTERECEP\obj\Debug\DTERECEP.pdb
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Debug\DTERECEP.exe.config
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Debug\DTERECEP.exe
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Debug\DTERECEP.pdb
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Debug\Encrypto.dll
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Debug\RestSharp.dll
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Debug\ValidLic.dll
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\obj\Debug\DTERECEP.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\obj\Debug\DTERECEP.csproj.CopyComplete
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\obj\Debug\DTERECEP.exe
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\obj\Debug\DTERECEP.pdb
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\obj\Debug\DTERECEP.csproj.AssemblyReference.cache
+C:\Users\EduardoQuintana\Documents\Visual Studio 2015\Projects\SAP_DTE_RECEPCION\DTERECEP\DTERECEP\bin\Debug\DTERECEP.exe.config
+C:\Users\EduardoQuintana\Documents\Visual Studio 2015\Projects\SAP_DTE_RECEPCION\DTERECEP\DTERECEP\obj\Debug\DTERECEP.exe
+C:\Users\EduardoQuintana\Documents\Visual Studio 2015\Projects\SAP_DTE_RECEPCION\DTERECEP\DTERECEP\obj\Debug\DTERECEP.pdb

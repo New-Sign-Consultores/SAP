@@ -1,0 +1,20 @@
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Release\DTERECEP.exe.config
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Release\DTERECEP.exe
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Release\DTERECEP.pdb
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Release\Encrypto.dll
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Release\RestSharp.dll
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Release\SAPBusinessOneSDK.dll
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\bin\Release\ValidLic.dll
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\obj\Release\DTERECEP.exe
+C:\Users\DEV\Documents\RepoGIT\DTEREC\dterec\DTERECEP\DTERECEP\obj\Release\DTERECEP.pdb
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Release\DTERECEP.exe.config
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Release\DTERECEP.exe
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Release\DTERECEP.pdb
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Release\Encrypto.dll
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Release\RestSharp.dll
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Release\SAPBusinessOneSDK.dll
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\bin\Release\ValidLic.dll
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\obj\Release\DTERECEP.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\obj\Release\DTERECEP.csproj.CopyComplete
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\obj\Release\DTERECEP.exe
+C:\Users\User\Documents\Proyectos\New folder\New folder\dterec-main\dterec-main\DTERECEP\DTERECEP\obj\Release\DTERECEP.pdb
